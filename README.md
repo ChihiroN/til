@@ -11,5 +11,6 @@ Today I Learn
 - <a id='Jupyter'>[Jupyter](./Jupyter/)</a>
 - <a id='Python'>[Python](./Python/)</a>
     - [numpy](./Python/numpy/)
+    - [pandas](./Python/pandas/)
     - [rasterio](./Python/rasterio/)
 - <a id='WSL'>[WSL](./WSL/)</a>
